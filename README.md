@@ -6,7 +6,7 @@ by many investors to be the best overall measurement of American stock market pe
 In this analysis, I am focusing on the predictive technics of Machine Learning, how they are performing on a <br>
 totally random dataset like stockmarket prices.<br>
 <br>
-Technics which can be used for oredicting only the next future value:<br>
+Technics which can be used for predicting only the next future value:<br>
 - "Naive" forecast (using only the previous data for the predicted value)<br>
 - Moving average<br>
 - Differencing + moving average + bringing back the trend<br>
