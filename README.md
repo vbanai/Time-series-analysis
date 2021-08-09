@@ -7,15 +7,18 @@ In this analysis, I am focusing on the predictive technics of Machine Learning, 
 totally random dataset like stockmarket prices.<br>
 <br>
 Technics which can be used for predicting only the next future value:<br>
+<br>
 - "Naive" forecast (using only the previous data for the predicted value)<br>
 - Moving average<br>
 - Differencing + moving average + bringing back the trend<br>
 - One layer neural network<br>
 - Bidirectional LSTM model<br>
- <br>
+<br>
 Naive forecast proved to be the best model in predicting one future value<br>
 <br>
+<br>
 Technics I tried and being appropriate for predicting series of future values:<br>
+<br>
 - AR model<br>
 - ARMA model<br>
 - ARIMA model<br>
