@@ -12,7 +12,8 @@ Technics which can be used for oredicting only the next future value:<br>
 - Differencing + moving average + bringing back the trend<br>
 - One layer neural network<br>
 - Bidirectional LSTM model<br>
-(Naive forecast proved to be the best model)
+ <br>
+Naive forecast proved to be the best model in predicting one future value<br>
 <br>
 Technics I tried and being appropriate for predicting series of future values:<br>
 - AR model<br>
