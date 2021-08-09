@@ -14,7 +14,7 @@ Technics which can be used for predicting only the next future value:<br>
 - Bidirectional LSTM model<br>
 Naive forecast proved to be the best model in predicting the next one future value<br>
 <br>
-Technics I tried and being appropriate for predicting series of future values:<br>
+Models I tried for predicting series of future values:<br>
 - AR model<br>
 - ARMA model<br>
 - ARIMA model<br>
