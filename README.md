@@ -21,5 +21,5 @@ Models I tried for predicting series of future values:<br>
 - SARIMA model<br>
 - Prophet<br>
 <br>
-ARIMA and PROPHET proved to be the best model in predicting long term data
+ARIMA and PROPHET proved to be the best models in predicting long term data
 <br>
