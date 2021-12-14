@@ -15,12 +15,11 @@ Technics which can be used for predicting only the next future value:<br>
 Naive forecast proved to be the best model in predicting the next future value<br>
 <br>
 Models I tried for predicting series of future values:<br>
-<br>
 - AR model<br>
 - ARMA model<br>
 - ARIMA model<br>
 - SARIMA model<br>
 - Prophet<br>
 <br>
-ARIMA and PROPHET proved to be the best models in predicting long term data
+ARIMA and PROPHET proved to be the best models in predicting long term data.
 <br>
