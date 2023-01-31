@@ -23,6 +23,6 @@ Content:</br>
  &emsp; &emsp;&emsp;      - 1 LSTM layer + RELU activation function</br>
 &emsp; &emsp;&emsp;       - 3 LSTM layers + Relu activation</br>
 &emsp; &emsp;&emsp;       - 2 Bidirectional LSTM layers + Huber loss function</br>
-&emsp; &emsp;&emsp;       - Convolution layer + 2 bidirectional LSTM layers + Huber loss</br>
+&emsp; &emsp;&emsp;       - Convolutional layer + 2 bidirectional LSTM layers + Huber loss</br>
        
         
