@@ -6,20 +6,23 @@ by many investors to be the best overall measurement of American stock market pe
 In this analysis, I am focusing on the predictive technics of Machine Learning, how they are performing on a <br>
 totally random dataset like stockmarket prices.<br>
 <br>
-Technics which can be used for predicting only the next future value:<br>
-- "Naive" forecast (using only the previous data for the predicted value)<br>
-- Moving average<br>
-- Differencing + moving average + bringing back the trend<br>
-- One layer neural network<br>
-- Bidirectional LSTM model<br>
-Naive forecast proved to be the best model in predicting the next future value<br>
-<br>
-Models I tried for predicting series of future values:<br>
-- AR model<br>
-- ARMA model<br>
-- ARIMA model<br>
-- SARIMA model<br>
-- Prophet<br>
-<br>
-ARIMA and PROPHET proved to be the best models in predicting long term data.
-<br>
+Content:</br>
+I. Price/volume movement analysis</br>
+II. Predicitve analysis</br>
+    - Additive, mulitiplicative decomposition</br>
+    - Anomaly detection</br>
+    Forecasting techniques:</br>
+    - Naive</br>
+    - Simple Moving Average</br>
+    - ARMA (autoregressive moving average)</br>
+    - GARCH (generalized autoregressive conditional heteroskedasticity)</br>
+    - ARIMA (autoregressive integrated moving average)</br>
+    - SARIMA (seasonal ARIMA)</br>
+    - PROPHET</br>
+    -Neural network:</br>
+        - 1 LSTM layer + RELU activation function</br>
+        - 3 LSTM layers + Relu activation</br>
+        - 2 Bidirectional LSTM layers + Huber loss function</br>
+        - Convolution layer + 2 bidirectional LSTM layers + Huber loss</br>
+       
+        
