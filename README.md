@@ -19,10 +19,10 @@ Content:</br>
   &emsp;&emsp;  - ARIMA (autoregressive integrated moving average)</br>
   &emsp;&emsp;  - SARIMA (seasonal ARIMA)</br>
  &emsp;&emsp;   - PROPHET</br>
- &emsp;   -Neural network:</br>
-  &emsp;&emsp;      - 1 LSTM layer + RELU activation function</br>
- &emsp;&emsp;       - 3 LSTM layers + Relu activation</br>
- &emsp;&emsp;       - 2 Bidirectional LSTM layers + Huber loss function</br>
- &emsp;&emsp;       - Convolution layer + 2 bidirectional LSTM layers + Huber loss</br>
+ &emsp; &emsp;  -Neural network:</br>
+ &emsp; &emsp;&emsp;      - 1 LSTM layer + RELU activation function</br>
+&emsp; &emsp;&emsp;       - 3 LSTM layers + Relu activation</br>
+&emsp; &emsp;&emsp;       - 2 Bidirectional LSTM layers + Huber loss function</br>
+&emsp; &emsp;&emsp;       - Convolution layer + 2 bidirectional LSTM layers + Huber loss</br>
        
         
