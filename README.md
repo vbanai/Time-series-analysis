@@ -7,10 +7,13 @@ In this analysis, I am focusing on the predictive technics of Machine Learning, 
 totally random dataset like stockmarket prices.<br>
 <br>
 Content:</br>
+</br>
 &emsp;I. Price/volume movement analysis</br>
+</br>
 &emsp;II. Predicitve analysis</br>
 &emsp;&emsp;    - Additive, mulitiplicative decomposition</br>
 &emsp;&emsp;    - Anomaly detection</br>
+</br>
  &emsp;   Forecasting techniques:</br>
 &emsp;&emsp;    - Naive</br>
 &emsp;&emsp;    - Simple Moving Average</br>
