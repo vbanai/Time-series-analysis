@@ -9,20 +9,20 @@ totally random dataset like stockmarket prices.<br>
 Content:</br>
 &emsp;I. Price/volume movement analysis</br>
 &emsp;II. Predicitve analysis</br>
-    - Additive, mulitiplicative decomposition</br>
-    - Anomaly detection</br>
-    Forecasting techniques:</br>
-    - Naive</br>
-    - Simple Moving Average</br>
-    - ARMA (autoregressive moving average)</br>
-    - GARCH (generalized autoregressive conditional heteroskedasticity)</br>
-    - ARIMA (autoregressive integrated moving average)</br>
-    - SARIMA (seasonal ARIMA)</br>
-    - PROPHET</br>
-    -Neural network:</br>
-        - 1 LSTM layer + RELU activation function</br>
-        - 3 LSTM layers + Relu activation</br>
-        - 2 Bidirectional LSTM layers + Huber loss function</br>
-        - Convolution layer + 2 bidirectional LSTM layers + Huber loss</br>
+&emsp;&emsp;    - Additive, mulitiplicative decomposition</br>
+&emsp;&emsp;    - Anomaly detection</br>
+ &emsp;   Forecasting techniques:</br>
+&emsp;&emsp;    - Naive</br>
+&emsp;&emsp;    - Simple Moving Average</br>
+&emsp;&emsp;    - ARMA (autoregressive moving average)</br>
+ &emsp;&emsp;   - GARCH (generalized autoregressive conditional heteroskedasticity)</br>
+  &emsp;&emsp;  - ARIMA (autoregressive integrated moving average)</br>
+  &emsp;&emsp;  - SARIMA (seasonal ARIMA)</br>
+ &emsp;&emsp;   - PROPHET</br>
+ &emsp;   -Neural network:</br>
+  &emsp;&emsp;      - 1 LSTM layer + RELU activation function</br>
+ &emsp;&emsp;       - 3 LSTM layers + Relu activation</br>
+ &emsp;&emsp;       - 2 Bidirectional LSTM layers + Huber loss function</br>
+ &emsp;&emsp;       - Convolution layer + 2 bidirectional LSTM layers + Huber loss</br>
        
         
